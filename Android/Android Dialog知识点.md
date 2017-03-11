@@ -1,7 +1,7 @@
 ---
 title: Android Dialog
 date: 2015-11-08 13:14:24
-categories: android 
+categories: Android 
 tags: Dialog
 ---
 

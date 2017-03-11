@@ -1,7 +1,7 @@
 ---
 title: Java集合
 date: 2016-06-12 13:24:17
-categories:Java
+categories: Java
 tags: 集合
 ---
 # 概述

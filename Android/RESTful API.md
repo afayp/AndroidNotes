@@ -1,7 +1,7 @@
 ---
 title: RESTful API
 date: 2016-11-18 20:55:14
-categories: Android
+categories: 网络
 tags: restful
 ---
 
@@ -9,7 +9,9 @@ tags: restful
 
 在「远古时代」前端后端是融合在一起的，比如之前的PHP，JSP，ASP等等。近年来随着移动互联网的飞速发展，各种类型的Client端层出不穷，就需要通过一套统一的接口分别为Web，iOS和Android乃至桌面端提供服务。另外对于广大平台来说，比如Facebook platform，微博开放平台，微信公共平台等，它们不需要有显式的前端，只需要一套提供服务的接口，于是RESTful更是它们最好的选择。  
 需要注意的是，REST是一种设计风格而不是标准，如果一个架构符合REST原则，我们就称它为RESTful架构。
-<!--more>
+
+<!--more-->
+
 ![](http://7xjbdq.com1.z0.glb.clouddn.com/images/2016/1471531874674.png)
 REST强调资源，RPC强调动作，所以REST的Uri组成为名词，RPC多为动词短语
 

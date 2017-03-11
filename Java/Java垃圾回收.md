@@ -9,7 +9,9 @@ tags: Java
 
 ## Java内存模型
 Java虚拟机规将JVM虚拟机所管理的内存分为以下几个部分：
+
 <!--more>
+
 ![](https://user-gold-cdn.xitu.io/2016/12/9/dfd03f89c703b75324ab2d80a2444478)
 
 1. 程序计数器（Program Counter Register）是一块较小的内存空间，它的作用可以看做是当前线程所执行字节码的行号指示器。是线程私有，生命周期与线程相同。

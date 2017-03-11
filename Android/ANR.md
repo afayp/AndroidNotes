@@ -1,6 +1,6 @@
 ---
 title: ANR
-date: 2017-8-20 22:18:22
+date: 2017-1-03 22:18:22
 categories: Android
 tags: ANR
 ---
